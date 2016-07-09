@@ -29,3 +29,5 @@
 
 // If in the future we add some other useful .cpp file to the scripts target,
 // we can likely remove this.
+
+#include "scripts/registration.h"
